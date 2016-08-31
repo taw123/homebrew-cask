@@ -1,5 +1,5 @@
 cask 'etrecheck' do
-  version :latest
+  version :2.9.12
   sha256 :no_check
 
   url 'https://www.etresoft.com/download/EtreCheck.zip'
